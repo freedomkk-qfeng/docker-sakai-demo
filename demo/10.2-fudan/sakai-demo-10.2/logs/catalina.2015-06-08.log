@@ -1,0 +1,304 @@
+六月 08, 2015 11:13:33 上午 org.apache.catalina.startup.ClassLoaderFactory validateFile
+警告: Problem with directory [/opt/sakai-demo-fudan/sakai-demo-10.2/shared/classes], exists: [false], isDirectory: [false], canRead: [false]
+六月 08, 2015 11:13:34 上午 org.apache.catalina.core.AprLifecycleListener init
+信息: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /usr/java/packages/lib/amd64:/usr/lib/x86_64-linux-gnu/jni:/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/usr/lib/jni:/lib:/usr/lib
+六月 08, 2015 11:13:34 上午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["http-bio-8080"]
+六月 08, 2015 11:13:34 上午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["ajp-bio-8009"]
+六月 08, 2015 11:13:34 上午 org.apache.catalina.startup.Catalina load
+信息: Initialization processed in 803 ms
+六月 08, 2015 11:13:34 上午 org.apache.catalina.core.StandardService startInternal
+信息: Starting service Catalina
+六月 08, 2015 11:13:34 上午 org.apache.catalina.core.StandardEngine startInternal
+信息: Starting Servlet Engine: Apache Tomcat/7.0.53
+六月 08, 2015 11:13:34 上午 org.apache.catalina.startup.HostConfig deployWAR
+信息: Deploying web application archive /opt/sakai-demo-fudan/sakai-demo-10.2/webapps/sakai-content-tool.war
+六月 08, 2015 11:24:20 上午 org.apache.catalina.startup.HostConfig deployWAR
+信息: Deploying web application archive /opt/sakai-demo-fudan/sakai-demo-10.2/webapps/sakai-alias-tool.war
+六月 08, 2015 11:24:24 上午 org.apache.catalina.startup.HostConfig deployWAR
+信息: Deploying web application archive /opt/sakai-demo-fudan/sakai-demo-10.2/webapps/sakai-login-tool.war
+六月 08, 2015 11:24:28 上午 org.apache.catalina.startup.HostConfig deployWAR
+信息: Deploying web application archive /opt/sakai-demo-fudan/sakai-demo-10.2/webapps/portal-chat.war
+六月 08, 2015 11:24:32 上午 org.apache.catalina.startup.HostConfig deployWAR
+信息: Deploying web application archive /opt/sakai-demo-fudan/sakai-demo-10.2/webapps/sakai-citations-servlet.war
+六月 08, 2015 11:24:35 上午 org.apache.catalina.startup.HostConfig deployWAR
+信息: Deploying web application archive /opt/sakai-demo-fudan/sakai-demo-10.2/webapps/sakai-rwiki-tool.war
+六月 08, 2015 11:24:39 上午 org.apache.catalina.startup.HostConfig deployWAR
+信息: Deploying web application archive /opt/sakai-demo-fudan/sakai-demo-10.2/webapps/access.war
+六月 08, 2015 11:24:42 上午 org.apache.catalina.startup.HostConfig deployWAR
+信息: Deploying web application archive /opt/sakai-demo-fudan/sakai-demo-10.2/webapps/samigo-app.war
+六月 08, 2015 11:24:47 上午 org.apache.catalina.startup.TaglibUriRule body
+信息: TLD skipped. URI: http://java.sun.com/jsf/html is already defined
+六月 08, 2015 11:24:47 上午 org.apache.catalina.startup.TaglibUriRule body
+信息: TLD skipped. URI: http://java.sun.com/jsf/core is already defined
+六月 08, 2015 11:24:49 上午 org.apache.catalina.startup.HostConfig deployWAR
+信息: Deploying web application archive /opt/sakai-demo-fudan/sakai-demo-10.2/webapps/osp-presentation-tool.war
+六月 08, 2015 11:24:53 上午 org.apache.catalina.startup.TaglibUriRule body
+信息: TLD skipped. URI: http://www.springframework.org/tags is already defined
+六月 08, 2015 11:24:54 上午 org.apache.catalina.startup.HostConfig deployWAR
+信息: Deploying web application archive /opt/sakai-demo-fudan/sakai-demo-10.2/webapps/osp-portal-tool.war
+六月 08, 2015 11:24:58 上午 org.apache.catalina.startup.HostConfig deployWAR
+信息: Deploying web application archive /opt/sakai-demo-fudan/sakai-demo-10.2/webapps/sakai-calendar-tool.war
+六月 08, 2015 11:25:02 上午 org.apache.catalina.startup.HostConfig deployWAR
+信息: Deploying web application archive /opt/sakai-demo-fudan/sakai-demo-10.2/webapps/sakai-sections-tool.war
+六月 08, 2015 11:25:06 上午 org.apache.catalina.startup.HostConfig deployWAR
+信息: Deploying web application archive /opt/sakai-demo-fudan/sakai-demo-10.2/webapps/sakai-web-tool.war
+六月 08, 2015 11:25:09 上午 org.apache.catalina.startup.HostConfig deployWAR
+信息: Deploying web application archive /opt/sakai-demo-fudan/sakai-demo-10.2/webapps/delegatedaccess-tool.war
+六月 08, 2015 11:25:13 上午 org.apache.catalina.startup.HostConfig deployWAR
+信息: Deploying web application archive /opt/sakai-demo-fudan/sakai-demo-10.2/webapps/sakai-citations-tool.war
+六月 08, 2015 11:25:16 上午 org.apache.catalina.startup.HostConfig deployWAR
+信息: Deploying web application archive /opt/sakai-demo-fudan/sakai-demo-10.2/webapps/sakai-editor.war
+六月 08, 2015 11:25:19 上午 org.apache.catalina.startup.HostConfig deployWAR
+信息: Deploying web application archive /opt/sakai-demo-fudan/sakai-demo-10.2/webapps/sakai-site-pageorder-helper.war
+六月 08, 2015 11:25:23 上午 org.apache.catalina.startup.HostConfig deployWAR
+信息: Deploying web application archive /opt/sakai-demo-fudan/sakai-demo-10.2/webapps/sakai-message-tool.war
+六月 08, 2015 11:25:27 上午 org.apache.catalina.startup.HostConfig deployWAR
+信息: Deploying web application archive /opt/sakai-demo-fudan/sakai-demo-10.2/webapps/accountvalidator.war
+六月 08, 2015 11:25:31 上午 org.apache.catalina.startup.HostConfig deployWAR
+信息: Deploying web application archive /opt/sakai-demo-fudan/sakai-demo-10.2/webapps/sakai-calendar-summary-tool.war
+六月 08, 2015 11:25:34 上午 org.apache.catalina.startup.HostConfig deployWAR
+信息: Deploying web application archive /opt/sakai-demo-fudan/sakai-demo-10.2/webapps/sakai-web-portlet-basiclti.war
+六月 08, 2015 11:25:38 上午 org.apache.catalina.startup.HostConfig deployWAR
+信息: Deploying web application archive /opt/sakai-demo-fudan/sakai-demo-10.2/webapps/mailsender-tool.war
+六月 08, 2015 11:25:42 上午 org.apache.catalina.startup.HostConfig deployWAR
+信息: Deploying web application archive /opt/sakai-demo-fudan/sakai-demo-10.2/webapps/osp-portal.war
+六月 08, 2015 11:25:45 上午 org.apache.catalina.startup.HostConfig deployWAR
+信息: Deploying web application archive /opt/sakai-demo-fudan/sakai-demo-10.2/webapps/polls-tool.war
+六月 08, 2015 11:25:50 上午 org.apache.catalina.startup.HostConfig deployWAR
+信息: Deploying web application archive /opt/sakai-demo-fudan/sakai-demo-10.2/webapps/sakai-authz-tool.war
+六月 08, 2015 11:25:53 上午 org.apache.catalina.startup.HostConfig deployWAR
+信息: Deploying web application archive /opt/sakai-demo-fudan/sakai-demo-10.2/webapps/sakai-search-tool.war
+六月 08, 2015 11:25:56 上午 org.apache.catalina.startup.HostConfig deployWAR
+信息: Deploying web application archive /opt/sakai-demo-fudan/sakai-demo-10.2/webapps/sakai-web-portlet.war
+六月 08, 2015 11:25:59 上午 org.apache.catalina.startup.HostConfig deployWAR
+信息: Deploying web application archive /opt/sakai-demo-fudan/sakai-demo-10.2/webapps/x.war
+六月 08, 2015 11:26:02 上午 org.apache.catalina.startup.HostConfig deployWAR
+信息: Deploying web application archive /opt/sakai-demo-fudan/sakai-demo-10.2/webapps/sakai-site-manage-participant-helper.war
+六月 08, 2015 11:26:07 上午 org.apache.catalina.startup.HostConfig deployWAR
+信息: Deploying web application archive /opt/sakai-demo-fudan/sakai-demo-10.2/webapps/osp-glossary-tool.war
+六月 08, 2015 11:26:10 上午 org.apache.catalina.startup.TaglibUriRule body
+信息: TLD skipped. URI: http://www.springframework.org/tags is already defined
+六月 08, 2015 11:26:10 上午 org.apache.catalina.startup.HostConfig deployWAR
+信息: Deploying web application archive /opt/sakai-demo-fudan/sakai-demo-10.2/webapps/sakai-user-tool-admin-prefs.war
+六月 08, 2015 11:26:14 上午 org.apache.catalina.startup.HostConfig deployWAR
+信息: Deploying web application archive /opt/sakai-demo-fudan/sakai-demo-10.2/webapps/tool.war
+六月 08, 2015 11:26:17 上午 org.apache.catalina.startup.HostConfig deployWAR
+信息: Deploying web application archive /opt/sakai-demo-fudan/sakai-demo-10.2/webapps/adminsiteperms.war
+六月 08, 2015 11:26:20 上午 org.apache.catalina.startup.HostConfig deployWAR
+信息: Deploying web application archive /opt/sakai-demo-fudan/sakai-demo-10.2/webapps/imsblti.war
+六月 08, 2015 11:26:24 上午 org.apache.catalina.startup.HostConfig deployWAR
+信息: Deploying web application archive /opt/sakai-demo-fudan/sakai-demo-10.2/webapps/web.war
+六月 08, 2015 11:26:27 上午 org.apache.catalina.startup.HostConfig deployWAR
+信息: Deploying web application archive /opt/sakai-demo-fudan/sakai-demo-10.2/webapps/sakai-ws.war
+六月 08, 2015 11:26:27 上午 org.apache.catalina.loader.WebappClassLoader validateJarFile
+信息: validateJarFile(/opt/sakai-demo-fudan/sakai-demo-10.2/webapps/sakai-ws/WEB-INF/lib/geronimo-servlet_3.0_spec-1.0.jar) - jar not loaded. See Servlet Spec 3.0, section 10.7.2. Offending class: javax/servlet/Servlet.class
+六月 08, 2015 11:26:32 上午 org.apache.catalina.startup.HostConfig deployWAR
+信息: Deploying web application archive /opt/sakai-demo-fudan/sakai-demo-10.2/webapps/sakai-site-manage-link-helper.war
+六月 08, 2015 11:26:35 上午 org.apache.catalina.startup.HostConfig deployWAR
+信息: Deploying web application archive /opt/sakai-demo-fudan/sakai-demo-10.2/webapps/sakai-syllabus-tool.war
+六月 08, 2015 11:26:40 上午 org.apache.catalina.startup.HostConfig deployWAR
+信息: Deploying web application archive /opt/sakai-demo-fudan/sakai-demo-10.2/webapps/dav.war
+六月 08, 2015 11:26:43 上午 org.apache.catalina.startup.HostConfig deployWAR
+信息: Deploying web application archive /opt/sakai-demo-fudan/sakai-demo-10.2/webapps/userauditservice-tool.war
+六月 08, 2015 11:26:47 上午 org.apache.catalina.startup.HostConfig deployWAR
+信息: Deploying web application archive /opt/sakai-demo-fudan/sakai-demo-10.2/webapps/sakai-news-tool.war
+六月 08, 2015 11:26:50 上午 org.apache.catalina.startup.HostConfig deployWAR
+信息: Deploying web application archive /opt/sakai-demo-fudan/sakai-demo-10.2/webapps/wiki.war
+六月 08, 2015 11:26:53 上午 org.apache.catalina.startup.HostConfig deployWAR
+信息: Deploying web application archive /opt/sakai-demo-fudan/sakai-demo-10.2/webapps/sakai-mailarchive-tool.war
+六月 08, 2015 11:26:57 上午 org.apache.catalina.startup.HostConfig deployWAR
+信息: Deploying web application archive /opt/sakai-demo-fudan/sakai-demo-10.2/webapps/sakai-chat-tool.war
+六月 08, 2015 11:27:01 上午 org.apache.catalina.startup.HostConfig deployWAR
+信息: Deploying web application archive /opt/sakai-demo-fudan/sakai-demo-10.2/webapps/sakai-signup-tool.war
+六月 08, 2015 11:27:05 上午 org.apache.catalina.startup.TaglibUriRule body
+信息: TLD skipped. URI: http://sakaiproject.org/jsf/sakai is already defined
+六月 08, 2015 11:27:06 上午 org.apache.catalina.startup.HostConfig deployWAR
+信息: Deploying web application archive /opt/sakai-demo-fudan/sakai-demo-10.2/webapps/profile2-tool.war
+六月 08, 2015 11:27:09 上午 org.apache.catalina.startup.HostConfig deployWAR
+信息: Deploying web application archive /opt/sakai-demo-fudan/sakai-demo-10.2/webapps/sakai-metaobj-tool.war
+六月 08, 2015 11:27:12 上午 org.apache.catalina.startup.TaglibUriRule body
+信息: TLD skipped. URI: http://www.springframework.org/tags is already defined
+六月 08, 2015 11:27:13 上午 org.apache.catalina.startup.HostConfig deployWAR
+信息: Deploying web application archive /opt/sakai-demo-fudan/sakai-demo-10.2/webapps/sakai-archive-tool.war
+六月 08, 2015 11:27:16 上午 org.apache.catalina.startup.HostConfig deployWAR
+信息: Deploying web application archive /opt/sakai-demo-fudan/sakai-demo-10.2/webapps/osp-matrix-tool.war
+六月 08, 2015 11:27:20 上午 org.apache.catalina.startup.TaglibUriRule body
+信息: TLD skipped. URI: http://www.springframework.org/tags is already defined
+六月 08, 2015 11:27:21 上午 org.apache.catalina.startup.HostConfig deployWAR
+信息: Deploying web application archive /opt/sakai-demo-fudan/sakai-demo-10.2/webapps/sakai-roster2-tool.war
+六月 08, 2015 11:27:24 上午 org.apache.catalina.startup.HostConfig deployWAR
+信息: Deploying web application archive /opt/sakai-demo-fudan/sakai-demo-10.2/webapps/sakai-tool-tool-su.war
+六月 08, 2015 11:27:28 上午 org.apache.catalina.startup.HostConfig deployWAR
+信息: Deploying web application archive /opt/sakai-demo-fudan/sakai-demo-10.2/webapps/direct.war
+六月 08, 2015 11:27:31 上午 org.apache.catalina.startup.HostConfig deployWAR
+信息: Deploying web application archive /opt/sakai-demo-fudan/sakai-demo-10.2/webapps/messageforums-tool.war
+六月 08, 2015 11:27:34 上午 org.apache.catalina.startup.HostConfig deployWAR
+信息: Deploying web application archive /opt/sakai-demo-fudan/sakai-demo-10.2/webapps/sakai-usermembership-tool.war
+六月 08, 2015 11:27:39 上午 org.apache.catalina.startup.HostConfig deployWAR
+信息: Deploying web application archive /opt/sakai-demo-fudan/sakai-demo-10.2/webapps/osp-jsf-example.war
+六月 08, 2015 11:27:42 上午 org.apache.catalina.startup.HostConfig deployWAR
+信息: Deploying web application archive /opt/sakai-demo-fudan/sakai-demo-10.2/webapps/sakai-assignment-tool.war
+六月 08, 2015 11:27:46 上午 org.apache.catalina.startup.HostConfig deployWAR
+信息: Deploying web application archive /opt/sakai-demo-fudan/sakai-demo-10.2/webapps/imsblis.war
+六月 08, 2015 11:27:49 上午 org.apache.catalina.startup.HostConfig deployWAR
+信息: Deploying web application archive /opt/sakai-demo-fudan/sakai-demo-10.2/webapps/osp-common-tool.war
+六月 08, 2015 11:27:53 上午 org.apache.catalina.startup.TaglibUriRule body
+信息: TLD skipped. URI: http://www.springframework.org/tags is already defined
+六月 08, 2015 11:27:53 上午 org.apache.catalina.startup.HostConfig deployWAR
+信息: Deploying web application archive /opt/sakai-demo-fudan/sakai-demo-10.2/webapps/scheduler-tool.war
+六月 08, 2015 11:27:57 上午 org.apache.catalina.startup.HostConfig deployWAR
+信息: Deploying web application archive /opt/sakai-demo-fudan/sakai-demo-10.2/webapps/basiclti-admin-tool.war
+六月 08, 2015 11:28:00 上午 org.apache.catalina.startup.HostConfig deployWAR
+信息: Deploying web application archive /opt/sakai-demo-fudan/sakai-demo-10.2/webapps/jsf-resource.war
+六月 08, 2015 11:28:04 上午 org.apache.catalina.startup.HostConfig deployWAR
+信息: Deploying web application archive /opt/sakai-demo-fudan/sakai-demo-10.2/webapps/emailtemplateservice-tool.war
+六月 08, 2015 11:28:08 上午 org.apache.catalina.startup.HostConfig deployWAR
+信息: Deploying web application archive /opt/sakai-demo-fudan/sakai-demo-10.2/webapps/sakai-announcement-tool.war
+六月 08, 2015 11:28:11 上午 org.apache.catalina.startup.HostConfig deployWAR
+信息: Deploying web application archive /opt/sakai-demo-fudan/sakai-demo-10.2/webapps/providers.war
+六月 08, 2015 11:28:14 上午 org.apache.catalina.startup.HostConfig deployWAR
+信息: Deploying web application archive /opt/sakai-demo-fudan/sakai-demo-10.2/webapps/portal-render.war
+六月 08, 2015 11:28:18 上午 org.apache.catalina.startup.HostConfig deployWAR
+信息: Deploying web application archive /opt/sakai-demo-fudan/sakai-demo-10.2/webapps/sakai-axis.war
+六月 08, 2015 11:28:21 上午 org.apache.catalina.startup.HostConfig deployWAR
+信息: Deploying web application archive /opt/sakai-demo-fudan/sakai-demo-10.2/webapps/courier.war
+六月 08, 2015 11:28:24 上午 org.apache.catalina.startup.HostConfig deployWAR
+信息: Deploying web application archive /opt/sakai-demo-fudan/sakai-demo-10.2/webapps/sakai-gradebook-tool.war
+六月 08, 2015 11:28:31 上午 org.apache.catalina.startup.HostConfig deployWAR
+信息: Deploying web application archive /opt/sakai-demo-fudan/sakai-demo-10.2/webapps/sakai-memory-tool.war
+六月 08, 2015 11:28:35 上午 org.apache.catalina.startup.HostConfig deployWAR
+信息: Deploying web application archive /opt/sakai-demo-fudan/sakai-demo-10.2/webapps/sakai-site-tool.war
+六月 08, 2015 11:28:38 上午 org.apache.catalina.startup.HostConfig deployWAR
+信息: Deploying web application archive /opt/sakai-demo-fudan/sakai-demo-10.2/webapps/library.war
+六月 08, 2015 11:28:45 上午 org.apache.catalina.startup.HostConfig deployWAR
+信息: Deploying web application archive /opt/sakai-demo-fudan/sakai-demo-10.2/webapps/sakai-reset-pass.war
+六月 08, 2015 11:28:49 上午 org.apache.catalina.startup.HostConfig deployWAR
+信息: Deploying web application archive /opt/sakai-demo-fudan/sakai-demo-10.2/webapps/sakai-presence-tool.war
+六月 08, 2015 11:28:52 上午 org.apache.catalina.startup.HostConfig deployWAR
+信息: Deploying web application archive /opt/sakai-demo-fudan/sakai-demo-10.2/webapps/osp-wizard-tool.war
+六月 08, 2015 11:28:57 上午 org.apache.catalina.startup.HostConfig deployWAR
+信息: Deploying web application archive /opt/sakai-demo-fudan/sakai-demo-10.2/webapps/sakai-postem-tool.war
+六月 08, 2015 11:29:01 上午 org.apache.catalina.startup.HostConfig deployWAR
+信息: Deploying web application archive /opt/sakai-demo-fudan/sakai-demo-10.2/webapps/sakai-rights-tool.war
+六月 08, 2015 11:29:04 上午 org.apache.catalina.startup.HostConfig deployWAR
+信息: Deploying web application archive /opt/sakai-demo-fudan/sakai-demo-10.2/webapps/sakai-user-tool-prefs.war
+六月 08, 2015 11:29:09 上午 org.apache.catalina.startup.HostConfig deployWAR
+信息: Deploying web application archive /opt/sakai-demo-fudan/sakai-demo-10.2/webapps/sakai-calendar-connector.war
+六月 08, 2015 11:29:13 上午 org.apache.catalina.startup.HostConfig deployWAR
+信息: Deploying web application archive /opt/sakai-demo-fudan/sakai-demo-10.2/webapps/sitestats-tool.war
+六月 08, 2015 11:29:16 上午 org.apache.catalina.startup.HostConfig deployWAR
+信息: Deploying web application archive /opt/sakai-demo-fudan/sakai-demo-10.2/webapps/sakai-fck-connector.war
+六月 08, 2015 11:29:20 上午 org.apache.catalina.startup.HostConfig deployWAR
+信息: Deploying web application archive /opt/sakai-demo-fudan/sakai-demo-10.2/webapps/authn.war
+六月 08, 2015 11:29:23 上午 org.apache.catalina.startup.HostConfig deployWAR
+信息: Deploying web application archive /opt/sakai-demo-fudan/sakai-demo-10.2/webapps/osp-jsf-resource.war
+六月 08, 2015 11:29:26 上午 org.apache.catalina.startup.HostConfig deployWAR
+信息: Deploying web application archive /opt/sakai-demo-fudan/sakai-demo-10.2/webapps/xsl-portal.war
+六月 08, 2015 11:29:29 上午 org.apache.catalina.startup.HostConfig deployWAR
+信息: Deploying web application archive /opt/sakai-demo-fudan/sakai-demo-10.2/webapps/sakai-site-manage-group-section-role-helper.war
+六月 08, 2015 11:29:33 上午 org.apache.catalina.startup.HostConfig deployWAR
+信息: Deploying web application archive /opt/sakai-demo-fudan/sakai-demo-10.2/webapps/sakai-mailarchive-james.war
+六月 08, 2015 11:29:37 上午 org.apache.catalina.startup.HostConfig deployWAR
+信息: Deploying web application archive /opt/sakai-demo-fudan/sakai-demo-10.2/webapps/grades-rest.war
+六月 08, 2015 11:29:41 上午 org.apache.catalina.startup.HostConfig deployWAR
+信息: Deploying web application archive /opt/sakai-demo-fudan/sakai-demo-10.2/webapps/sakai-gradebook-testservice.war
+六月 08, 2015 11:29:44 上午 org.apache.catalina.startup.HostConfig deployWAR
+信息: Deploying web application archive /opt/sakai-demo-fudan/sakai-demo-10.2/webapps/lessonbuilder-tool.war
+六月 08, 2015 11:29:49 上午 org.apache.catalina.startup.HostConfig deployWAR
+信息: Deploying web application archive /opt/sakai-demo-fudan/sakai-demo-10.2/webapps/sakai-siteassociation-tool.war
+六月 08, 2015 11:29:54 上午 org.apache.catalina.startup.HostConfig deployWAR
+信息: Deploying web application archive /opt/sakai-demo-fudan/sakai-demo-10.2/webapps/login-render.war
+六月 08, 2015 11:29:57 上午 org.apache.catalina.startup.HostConfig deployWAR
+信息: Deploying web application archive /opt/sakai-demo-fudan/sakai-demo-10.2/webapps/portal.war
+六月 08, 2015 11:30:00 上午 org.apache.catalina.startup.HostConfig deployWAR
+信息: Deploying web application archive /opt/sakai-demo-fudan/sakai-demo-10.2/webapps/sakai-user-tool.war
+六月 08, 2015 11:30:03 上午 org.apache.catalina.startup.HostConfig deployWAR
+信息: Deploying web application archive /opt/sakai-demo-fudan/sakai-demo-10.2/webapps/sakai-help-tool.war
+六月 08, 2015 11:30:07 上午 org.apache.catalina.startup.HostConfig deployWAR
+信息: Deploying web application archive /opt/sakai-demo-fudan/sakai-demo-10.2/webapps/sakai-site-manage-tool.war
+六月 08, 2015 11:30:11 上午 org.apache.catalina.startup.HostConfig deployWAR
+信息: Deploying web application archive /opt/sakai-demo-fudan/sakai-demo-10.2/webapps/podcasts.war
+六月 08, 2015 11:30:14 上午 org.apache.catalina.startup.HostConfig deployWAR
+信息: Deploying web application archive /opt/sakai-demo-fudan/sakai-demo-10.2/webapps/sakai-site-manage-group-helper.war
+六月 08, 2015 11:30:19 上午 org.apache.catalina.startup.HostConfig deployWAR
+信息: Deploying web application archive /opt/sakai-demo-fudan/sakai-demo-10.2/webapps/sakai-podcasts.war
+六月 08, 2015 11:30:22 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory /opt/sakai-demo-fudan/sakai-demo-10.2/webapps/ROOT
+六月 08, 2015 11:30:25 上午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["http-bio-8080"]
+六月 08, 2015 11:30:25 上午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["ajp-bio-8009"]
+六月 08, 2015 11:30:25 上午 org.apache.catalina.startup.Catalina start
+信息: Server startup in 1011067 ms
+六月 08, 2015 11:31:23 上午 org.apache.jasper.compiler.TldLocationsCache tldScanJar
+信息: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+六月 08, 2015 11:41:16 上午 org.apache.coyote.AbstractProtocol pause
+信息: Pausing ProtocolHandler ["http-bio-8080"]
+六月 08, 2015 11:41:16 上午 org.apache.coyote.AbstractProtocol pause
+信息: Pausing ProtocolHandler ["ajp-bio-8009"]
+六月 08, 2015 11:41:16 上午 org.apache.catalina.core.StandardService stopInternal
+信息: Stopping service Catalina
+六月 08, 2015 11:41:17 上午 org.apache.catalina.loader.WebappClassLoader checkThreadLocalMapForLeaks
+严重: The web application [/portal] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@fcb9afc]) and a value of type [org.sakaiproject.portal.charon.handlers.StaticHandler.StaticCache[]] (value [[Lorg.sakaiproject.portal.charon.handlers.StaticHandler$StaticCache;@2c1e7e]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+六月 08, 2015 11:41:17 上午 org.apache.catalina.loader.WebappClassLoader checkThreadLocalMapForLeaks
+严重: The web application [/portal] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@fcb9afc]) and a value of type [org.sakaiproject.portal.charon.handlers.StaticHandler.StaticCache[]] (value [[Lorg.sakaiproject.portal.charon.handlers.StaticHandler$StaticCache;@5085e248]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+六月 08, 2015 11:41:17 上午 org.apache.catalina.loader.WebappClassLoader checkThreadLocalMapForLeaks
+严重: The web application [/portal] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@fcb9afc]) and a value of type [org.sakaiproject.portal.charon.handlers.StaticHandler.StaticCache[]] (value [[Lorg.sakaiproject.portal.charon.handlers.StaticHandler$StaticCache;@5cb0e45]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+六月 08, 2015 11:41:17 上午 org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+严重: The web application [/sakai-content-tool] appears to have started a thread named [Sakai.SessionComponent.Maintenance] but has failed to stop it. This is very likely to create a memory leak.
+六月 08, 2015 11:41:17 上午 org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+严重: The web application [/sakai-content-tool] appears to have started a thread named [Sakai] but has failed to stop it. This is very likely to create a memory leak.
+六月 08, 2015 11:41:17 上午 org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+严重: The web application [/sakai-content-tool] appears to have started a thread named [org.sakaiproject.event.impl.ClusterEventTracking$$EnhancerByCGLIB$$963f2ec2] but has failed to stop it. This is very likely to create a memory leak.
+六月 08, 2015 11:41:17 上午 org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+严重: The web application [/sakai-content-tool] appears to have started a thread named [boot precache users] but has failed to stop it. This is very likely to create a memory leak.
+六月 08, 2015 11:41:17 上午 org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+严重: The web application [/sakai-content-tool] appears to have started a thread named [daily precache users] but has failed to stop it. This is very likely to create a memory leak.
+六月 08, 2015 11:41:17 上午 org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+严重: The web application [/sakai-content-tool] appears to have started a thread named [org.azeckoski.reflectutils.refmap.Finalizer] but has failed to stop it. This is very likely to create a memory leak.
+六月 08, 2015 11:41:17 上午 org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+严重: The web application [/sakai-content-tool] appears to have started a thread named [QuartzScheduler_Worker-1] but has failed to stop it. This is very likely to create a memory leak.
+六月 08, 2015 11:41:17 上午 org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+严重: The web application [/sakai-content-tool] appears to have started a thread named [QuartzScheduler_Worker-2] but has failed to stop it. This is very likely to create a memory leak.
+六月 08, 2015 11:41:17 上午 org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+严重: The web application [/sakai-content-tool] appears to have started a thread named [QuartzScheduler_Worker-3] but has failed to stop it. This is very likely to create a memory leak.
+六月 08, 2015 11:41:17 上午 org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+严重: The web application [/sakai-content-tool] appears to have started a thread named [QuartzScheduler_Worker-4] but has failed to stop it. This is very likely to create a memory leak.
+六月 08, 2015 11:41:17 上午 org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+严重: The web application [/sakai-content-tool] appears to have started a thread named [QuartzScheduler_Worker-5] but has failed to stop it. This is very likely to create a memory leak.
+六月 08, 2015 11:41:17 上午 org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+严重: The web application [/sakai-content-tool] appears to have started a thread named [Timer-1] but has failed to stop it. This is very likely to create a memory leak.
+六月 08, 2015 11:41:17 上午 org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+严重: The web application [/sakai-content-tool] appears to have started a thread named [QuartzScheduler_QuartzScheduler-ubuntu-docker-node1_MisfireHandler] but has failed to stop it. This is very likely to create a memory leak.
+六月 08, 2015 11:41:17 上午 org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+严重: The web application [/sakai-content-tool] appears to have started a thread named [Timer-2] but has failed to stop it. This is very likely to create a memory leak.
+六月 08, 2015 11:41:17 上午 org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+严重: The web application [/sakai-content-tool] appears to have started a thread named [org.sakaiproject.sitestats.impl.StatsUpdateManagerImpl] but has failed to stop it. This is very likely to create a memory leak.
+六月 08, 2015 11:41:17 上午 org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+严重: The web application [/sakai-content-tool] appears to have started a thread named [[elasticsearch content indexer (event driven)]] but has failed to stop it. This is very likely to create a memory leak.
+六月 08, 2015 11:41:17 上午 org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+严重: The web application [/sakai-content-tool] appears to have started a thread named [[elasticsearch bulk content indexer (refresh/rebuild)]] but has failed to stop it. This is very likely to create a memory leak.
+六月 08, 2015 11:41:17 上午 org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+严重: The web application [/sakai-content-tool] appears to have started a thread named [HSQLDB Timer @39f75fec] but has failed to stop it. This is very likely to create a memory leak.
+六月 08, 2015 11:41:17 上午 org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+严重: The web application [/sakai-content-tool] appears to have started a thread named [Timer-3] but has failed to stop it. This is very likely to create a memory leak.
+六月 08, 2015 11:41:17 上午 org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+严重: The web application [/sakai-content-tool] appears to have started a thread named [Timer-4] but has failed to stop it. This is very likely to create a memory leak.
+六月 08, 2015 11:41:17 上午 org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+严重: The web application [/sakai-content-tool] appears to have started a thread named [SakaiClusterService.Maintenance] but has failed to stop it. This is very likely to create a memory leak.
+六月 08, 2015 11:41:17 上午 org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+严重: The web application [/sakai-content-tool] appears to have started a thread named [SakaiPresenceService.Maintenance] but has failed to stop it. This is very likely to create a memory leak.
+六月 08, 2015 11:41:17 上午 org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+严重: The web application [/sakai-content-tool] appears to have started a thread named [QuartzScheduler_QuartzSchedulerThread] but has failed to stop it. This is very likely to create a memory leak.
+六月 08, 2015 11:41:17 上午 org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+严重: The web application [/direct] appears to have started a thread named [org.azeckoski.reflectutils.refmap.Finalizer] but has failed to stop it. This is very likely to create a memory leak.
+六月 08, 2015 11:41:18 上午 org.apache.coyote.AbstractProtocol stop
+信息: Stopping ProtocolHandler ["http-bio-8080"]
+六月 08, 2015 11:41:18 上午 org.apache.coyote.AbstractProtocol stop
+信息: Stopping ProtocolHandler ["ajp-bio-8009"]
+六月 08, 2015 11:41:18 上午 org.apache.coyote.AbstractProtocol destroy
+信息: Destroying ProtocolHandler ["http-bio-8080"]
+六月 08, 2015 11:41:18 上午 org.apache.coyote.AbstractProtocol destroy
+信息: Destroying ProtocolHandler ["ajp-bio-8009"]
