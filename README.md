@@ -9,7 +9,7 @@ This project try to run sakai on docker
 The Sakai Demo is a pre-built version of Sakai with Apache Tomcat and a simple configuration, perfect for a quick and easy demo of Sakai. The Sakai demo is NOT intended for large scale implementations. It is suitable only for evaluating the software and running small pilot implementations on a single server.
 
 
-    docker run -d -p 8080:8080 --name sakai-demo freedomkk/sakai:demo-10.4
+    docker run -d -p 8080:8080 --name sakai-demo freedomkk/docker-sakai:demo-10.4
 
 （Give it some 'grab a coffee time' like over 6min for it to launch）
 
